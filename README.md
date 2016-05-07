@@ -10,3 +10,8 @@ cargo build
 ```
 cargo run
 ```
+
+# Usage
+```
+ssh username@$(cargo run).cs.utexas.edu
+```
